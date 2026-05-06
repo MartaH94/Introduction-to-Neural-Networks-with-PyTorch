@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 deep-learning-with-pytorch/__pycache__/helper.cpython-313.pyc
 deep-learning-with-pytorch/Part 2 - Neural Networks in PyTorch (Solution).ipynb
+deep-learning-with-pytorch/__pycache__/fc_model.cpython-313.pyc
+deep-learning-with-pytorch/checkpoint.pth
